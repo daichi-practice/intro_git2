@@ -1,3 +1,4 @@
 これからGitの学習を始めます
 ・git add
 ・git commit
+・git rm
